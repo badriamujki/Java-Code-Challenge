@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavabasicF {
+public class Javabasic4 {
 
     public static void main(String[] args) {
         compute();
